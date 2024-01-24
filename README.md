@@ -1,1 +1,1 @@
-This repo was used to learn git from maigoscode
+This repo was used to learn git from amigoscode
